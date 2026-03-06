@@ -1,6 +1,6 @@
-## Hi there 👋 :sunflower: I’m: **Olivia Rojo**
+## Hi there 👋 I’m: **Olivia Rojo**
 
-- :woman: She/Her
+- :sunflower: She/Her
 
 - 🌱 I’m interested in bioinformatics & computational biology, multi-omics, NGS, data analysis, biotechnology.
   
