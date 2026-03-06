@@ -1,4 +1,4 @@
-## Hi there 👋 :sunflower: I’m: **Olivia Rojo Nava**
+## Hi there 👋 :sunflower: I’m: **Olivia Rojo**
 
 - :woman: She/Her
 
