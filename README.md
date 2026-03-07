@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m: **Olivia Rojo**
 
-- 🌱 I’m interested in bioinformatics & computational biology, multi-omics, NGS, data analysis, biotechnology.
+- 🌱 I’m a Bioinformatics enthusiast. Interested in computational biology, multi-omics, NGS, data analysis, biotechnology.
   
 - :woman_health_worker:  I’m currently working at SUNY Upstate Medical University
 
