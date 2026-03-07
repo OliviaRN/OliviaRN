@@ -1,4 +1,4 @@
-## Hi there 👋 I’m: **Olivia Rojo**
+## Hi there 👋 I am **Olivia Rojo**
 
 - 🌱 I’m a Bioinformatics enthusiast. Interested in computational biology, multi-omics, NGS, data analysis, biotechnology.
   
