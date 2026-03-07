@@ -1,7 +1,5 @@
 ## Hi there 👋 I’m: **Olivia Rojo**
 
-- :sunflower: She/Her
-
 - 🌱 I’m interested in bioinformatics & computational biology, multi-omics, NGS, data analysis, biotechnology.
   
 - :woman_health_worker:  I’m currently working at SUNY Upstate Medical University
